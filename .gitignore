@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.spec
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.env
+_运行组件/
+_数据库/
+_自动测试输出/
+_test_output/
+00_*/
