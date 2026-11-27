@@ -20,6 +20,9 @@
 - 免安装打包（PyInstaller），双击即用
 
 ## 运行
+
+需要 **Python 3.10+**（Windows）。
+
 ```bash
 pip install -r requirements.txt
 python start_qingpei.py
