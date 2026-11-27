@@ -31,6 +31,9 @@ python start_qingpei.py
 ## 文件
 - `青赔系统.py`：主程序（GUI）
 - `agreement_to_table.py`：协议解析与补偿表生成
+- `fill_template.py`：证件/协议字段提取与 Word 填充
+- `generate_id_doc.py`：证件 Word 生成
+- `organize_master_doc.py`：总表整理
 - `qingpei_db.py`：SQLite 数据层
 - `青赔局域网管理系统.py`：局域网 Web 管理端
 - `start_qingpei.py`：启动入口
